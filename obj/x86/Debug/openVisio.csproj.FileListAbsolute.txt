@@ -1,0 +1,11 @@
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\bin\Debug\openVisio.exe
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\bin\Debug\openVisio.pdb
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\bin\Debug\AxVisioViewer.dll
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.csprojResolveAssemblyReference.cache
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.Properties.Resources.resources
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.csproj.GenerateResource.Cache
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.exe
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.pdb
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\bin\Debug\VisioViewer.dll
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.NetMonitor.resources
+d:\我的文档\Documents\Visual Studio 2010\Projects\openVisio\openVisio\obj\x86\Debug\openVisio.MonitorPoint.resources
